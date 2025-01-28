@@ -1,3 +1,3 @@
 # coding-_demo
-THIS IS MY FIRST REPOSITORY
-Author_Ratnesh Dwivedi
+THIS IS MY FIRST REPOSITORY.
+Author-Ratnesh Dwivedi
